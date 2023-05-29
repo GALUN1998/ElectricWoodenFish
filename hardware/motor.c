@@ -1,4 +1,3 @@
-int initMotor()
-{
+int initMotor() {
     return 0;
 }

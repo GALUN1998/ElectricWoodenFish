@@ -1,4 +1,3 @@
-int initAudio()
-{
+int initAudio() {
    return 0; 
 }

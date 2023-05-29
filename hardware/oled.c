@@ -1,4 +1,3 @@
-int initOled()
-{
+int initOled() {
     return 0;
 }

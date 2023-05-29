@@ -1,1 +1,1 @@
-[设计文档](./designDoc.md)
+[设计文档](./design_doc.md)
